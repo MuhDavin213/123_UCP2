@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UAS_123</string>
+    <string name="name">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="no_telp">No Telepon</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Kembali</string>
+</resources>
